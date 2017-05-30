@@ -42,21 +42,21 @@ Starter templates can either come from a named template, a Github repo, a Codepe
 
 __Named current version template starters:__
 
-* [tabs](https://github.com/driftyco/ionic2-starter-tabs) (Default)
-* [sidemenu](https://github.com/driftyco/ionic2-starter-sidemenu)
-* [blank](https://github.com/driftyco/ionic2-starter-blank)
+* [tabs](https://github.com/ionic-team/ionic2-starter-tabs) (Default)
+* [sidemenu](https://github.com/ionic-team/ionic2-starter-sidemenu)
+* [blank](https://github.com/ionic-team/ionic2-starter-blank)
 
 __Named V1 template starters:__
 
-* [tabs](https://github.com/driftyco/ionic-starter-tabs) (Default)
-* [sidemenu](https://github.com/driftyco/ionic-starter-sidemenu)
-* [maps](https://github.com/driftyco/ionic-starter-maps)
-* [salesforce](https://github.com/driftyco/ionic-starter-salesforce)
-* [blank](https://github.com/driftyco/ionic-starter-blank)
+* [tabs](https://github.com/ionic-team/ionic-starter-tabs) (Default)
+* [sidemenu](https://github.com/ionic-team/ionic-starter-sidemenu)
+* [maps](https://github.com/ionic-team/ionic-starter-maps)
+* [salesforce](https://github.com/ionic-team/ionic-starter-salesforce)
+* [blank](https://github.com/ionic-team/ionic-starter-blank)
 
 __Github Repo starters:__
 
-* Any Github repo url, ex: [https://github.com/driftyco/ionic2-starter-tabs](https://github.com/driftyco/ionic-starter-tabs)
+* Any Github repo url, ex: [https://github.com/ionic-team/ionic2-starter-tabs](https://github.com/ionic-team/ionic-starter-tabs)
 * Named templates are simply aliases to Ionic starter repos
 
 __Codepen URL starters:__
@@ -92,7 +92,7 @@ $ ionic platform ios android
 
 ## Testing in a Browser
 
-Use `ionic serve` to start a local development server for app dev and testing. Additionally, this command starts LiveReload which is used to monitor changes in the file system. As soon as you save a file the browser is refreshed automatically. View [Using Sass](https://github.com/driftyco/ionic-cli/blob/master/README.md#using-sass) if you would also like to have `ionic serve` watch the project's Sass files.
+Use `ionic serve` to start a local development server for app dev and testing. Additionally, this command starts LiveReload which is used to monitor changes in the file system. As soon as you save a file the browser is refreshed automatically. View [Using Sass](https://github.com/ionic-team/ionic-cli/blob/master/README.md#using-sass) if you would also like to have `ionic serve` watch the project's Sass files.
 
 ```bash
 $ ionic serve [options]
@@ -240,7 +240,7 @@ $ ionic setup sass
 
 will add a `watchPatterns` propery with the default values to your `ionic.config.json`
 file that you can then edit, in addition to the `serve:before` gulp task
-described in the [Using Sass](https://github.com/driftyco/ionic-cli/blob/master/README.md#using-sass) section.
+described in the [Using Sass](https://github.com/ionic-team/ionic-cli/blob/master/README.md#using-sass) section.
 
 
 __Service Proxies:__
